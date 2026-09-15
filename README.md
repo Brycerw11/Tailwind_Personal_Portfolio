@@ -1,7 +1,7 @@
 
 # Bryce Wahl Personal Portfolio
 
-My personal portfolio website made with HTML, Tailwind CSS, JS, and jQuery.
+My personal portfolio website made with HTML, Tailwind CSS, JS, and jQuery. Created as a part of the Coding Program at West-MEC's Northeast Campus.
 
 
 ## Authors
